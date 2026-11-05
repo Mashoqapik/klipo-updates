@@ -1,11 +1,11 @@
 {
-  "version": "1.9.5",
-  "date": "2026-11-05T16:57:52.694Z",
-  "notes": "Première version avec mises à jour automatiques",
+  "version": "1.9.6",
+  "date": "2026-11-05T22:31:29.628Z",
+  "notes": "Corrige Klipo qui ne répondait plus après être resté longtemps en arrière-plan. Corrige la fréquence d'écran mal détectée (60 Hz au lieu de 144/240 Hz) qui bridait les images par seconde.",
   "light": {
-    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.9.5.asar",
-    "sha256": "08f07106aaa5fccbb0607cc1c3a23613bc720e93584100fe4304c1f85836d327",
-    "size": 3126164,
+    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.9.6.asar",
+    "sha256": "ac79aed7b7ebea795e300cda0a4d3639b198f35d78f694b38612928ae811f3d8",
+    "size": 3131624,
     "minShell": "1.9.5"
   },
   "full": {
@@ -14,5 +14,5 @@
     "sha256": "02a2a97479fe379bbbdf4668f5613c316809fb9089fd14a5ad9076dc0ffe577d",
     "size": 169611286
   },
-  "signature": "KSxnsHHn5JBWPp4ZDA4+D3OHLHD+E9W8uDX+oGViTHyn7QKm3xJKwta0xQd06e/qe0o917A13cZME/7blF0QBQ=="
+  "signature": "UseEbRRagBv/TE/RNHsm7xMvVBoHynyGSI/Gn04Q+sGkNX8M/1mLTjdNFZBXy7J9PY+gUbn+woCoB51AdFzzBA=="
 }
