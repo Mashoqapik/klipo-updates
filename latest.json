@@ -8,6 +8,11 @@
     "size": 3126164,
     "minShell": "1.9.5"
   },
-  "full": null,
-  "signature": "LS837GggIDlyVzaiITEkpvMiQZheNgRwgrXMJWaamD+gZaLvQL27ScrhNuG/nRAfN8vaQRCkWL9ymVIkPv2eBQ=="
+  "full": {
+    "version": "1.9.5",
+    "url": "https://github.com/Mashoqapik/klipo-updates/releases/download/v1.9.5/Klipo-Setup-1.9.5.exe",
+    "sha256": "02a2a97479fe379bbbdf4668f5613c316809fb9089fd14a5ad9076dc0ffe577d",
+    "size": 169611286
+  },
+  "signature": "KSxnsHHn5JBWPp4ZDA4+D3OHLHD+E9W8uDX+oGViTHyn7QKm3xJKwta0xQd06e/qe0o917A13cZME/7blF0QBQ=="
 }
