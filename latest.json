@@ -1,0 +1,13 @@
+{
+  "version": "1.9.5",
+  "date": "2026-11-05T16:57:52.694Z",
+  "notes": "Première version avec mises à jour automatiques",
+  "light": {
+    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.9.5.asar",
+    "sha256": "08f07106aaa5fccbb0607cc1c3a23613bc720e93584100fe4304c1f85836d327",
+    "size": 3126164,
+    "minShell": "1.9.5"
+  },
+  "full": null,
+  "signature": "LS837GggIDlyVzaiITEkpvMiQZheNgRwgrXMJWaamD+gZaLvQL27ScrhNuG/nRAfN8vaQRCkWL9ymVIkPv2eBQ=="
+}
