@@ -1,11 +1,11 @@
 {
-  "version": "1.10.3",
-  "date": "2026-11-06T17:34:35.138Z",
-  "notes": "Clips plus fluides : si le PC ne suit pas le nombre d'images demandé pendant la partie, Klipo le baisse tout seul. La capture par la carte graphique ne se désactive plus à tort quand le jeu est en arrière-plan.",
+  "version": "1.10.4",
+  "date": "2026-11-06T17:50:45.868Z",
+  "notes": "Réglages, Image : les vraies caractéristiques de tes vidéos (taille, 4K, images par seconde, débit, poids par minute) et la résolution 4K.",
   "light": {
-    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.3.asar",
-    "sha256": "94491f28bc01081e8e704841762385716ec07cb94c44167ef80ffcca6f2e875f",
-    "size": 3244488,
+    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.4.asar",
+    "sha256": "9de0a86bc0fda399fb29bc62076ccf35548865483a71a60155535df2fbfef6e1",
+    "size": 3249984,
     "minShell": "1.9.5"
   },
   "full": {
@@ -14,5 +14,5 @@
     "sha256": "02a2a97479fe379bbbdf4668f5613c316809fb9089fd14a5ad9076dc0ffe577d",
     "size": 169611286
   },
-  "signature": "llP9ftWIgDxa4nHL8vru89tmhPzBj/vggNuTHvJeujFbfebhO/gGKPbKMbP5LV1GRXGmN7a3G3I8fufxCfHFBg=="
+  "signature": "DKKppUsyLQfEyanL0mvSvMjcz3alkjqDhldvBGUvd2mUim+baoOUxBCEROKxDPF3v7lrQApNfTet58/XK0C/DA=="
 }
