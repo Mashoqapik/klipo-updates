@@ -1,11 +1,11 @@
 {
-  "version": "1.9.8",
-  "date": "2026-11-06T08:56:44.249Z",
-  "notes": "Nouveaux boutons de fenêtre façon Mac (rouge fermer, jaune réduire, vert agrandir), en haut à gauche.",
+  "version": "1.9.9",
+  "date": "2026-11-06T08:59:14.986Z",
+  "notes": "Boutons de fenêtre façon Mac, placés à droite dans l'ordre de Windows : réduire, agrandir, fermer.",
   "light": {
-    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.9.8.asar",
-    "sha256": "95395240bdabd9b5947a39562aebe2bb81c950c55091dcae850aa34cabfba0e3",
-    "size": 3134337,
+    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.9.9.asar",
+    "sha256": "12c5c1eb4b5f368da48f9a7103aba51509bffb5552feaca20715e3b958993d58",
+    "size": 3134326,
     "minShell": "1.9.5"
   },
   "full": {
@@ -14,5 +14,5 @@
     "sha256": "02a2a97479fe379bbbdf4668f5613c316809fb9089fd14a5ad9076dc0ffe577d",
     "size": 169611286
   },
-  "signature": "XVxaJGdOYL1n7RFQeiZv7nbOp1RruqptyjPlxt87EYVTYqX3j9LbXcGPajq18SEXkghCCts4iTOYlQvgfh8pBw=="
+  "signature": "5msOYRMI1ZZDxTch2+9fo84rrUgYmAsPfN9Z0A71PwkumtfcRTzlDouIKAKcXHizp5yE6QQWlJJ/Ao4sfEPoBw=="
 }
