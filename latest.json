@@ -1,11 +1,11 @@
 {
-  "version": "1.9.7",
-  "date": "2026-11-06T08:47:23.668Z",
-  "notes": "Tu peux maintenant clipper jusqu'à 200 images par seconde (nouveaux choix 165 et 200 dans Réglages > Vidéo). Si ta carte graphique ne suit pas, Klipo passe tout seul à 144 ou 120 i/s et te prévient.",
+  "version": "1.9.8",
+  "date": "2026-11-06T08:56:44.249Z",
+  "notes": "Nouveaux boutons de fenêtre façon Mac (rouge fermer, jaune réduire, vert agrandir), en haut à gauche.",
   "light": {
-    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.9.7.asar",
-    "sha256": "1754170419d9e0f657a0dd3bad263051f3b8988ecbbdf7d302e7cee245da43e3",
-    "size": 3133165,
+    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.9.8.asar",
+    "sha256": "95395240bdabd9b5947a39562aebe2bb81c950c55091dcae850aa34cabfba0e3",
+    "size": 3134337,
     "minShell": "1.9.5"
   },
   "full": {
@@ -14,5 +14,5 @@
     "sha256": "02a2a97479fe379bbbdf4668f5613c316809fb9089fd14a5ad9076dc0ffe577d",
     "size": 169611286
   },
-  "signature": "C69qvknMpyVuvy5JibREpkfySeXzc3rih7oMAM8ftVM7T2UTvkRZq8i64OcKAEilkt1Sr1HAJlLZ0dIb+Kq8AA=="
+  "signature": "XVxaJGdOYL1n7RFQeiZv7nbOp1RruqptyjPlxt87EYVTYqX3j9LbXcGPajq18SEXkghCCts4iTOYlQvgfh8pBw=="
 }
