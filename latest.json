@@ -1,11 +1,11 @@
 {
-  "version": "1.10.2",
-  "date": "2026-11-06T12:44:07.369Z",
-  "notes": "Les nouveautés s'ouvrent maintenant dans une vraie page, avec le nouveau logo Klipo.",
+  "version": "1.10.3",
+  "date": "2026-11-06T17:34:35.138Z",
+  "notes": "Clips plus fluides : si le PC ne suit pas le nombre d'images demandé pendant la partie, Klipo le baisse tout seul. La capture par la carte graphique ne se désactive plus à tort quand le jeu est en arrière-plan.",
   "light": {
-    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.2.asar",
-    "sha256": "5c7d2efdedd7ebdab576c55d74810965608d8914a0728c9e9ffb11029b2b1826",
-    "size": 3240748,
+    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.3.asar",
+    "sha256": "94491f28bc01081e8e704841762385716ec07cb94c44167ef80ffcca6f2e875f",
+    "size": 3244488,
     "minShell": "1.9.5"
   },
   "full": {
@@ -14,5 +14,5 @@
     "sha256": "02a2a97479fe379bbbdf4668f5613c316809fb9089fd14a5ad9076dc0ffe577d",
     "size": 169611286
   },
-  "signature": "Rh2k2dUfyPzPTjbYOIexQecLCQTrjua3d3hom0RQ3BSpnAlh6XlszO5rg1vwuLCaI9Q/CHLS/KyAwPPjOD2wDQ=="
+  "signature": "llP9ftWIgDxa4nHL8vru89tmhPzBj/vggNuTHvJeujFbfebhO/gGKPbKMbP5LV1GRXGmN7a3G3I8fufxCfHFBg=="
 }
