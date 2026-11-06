@@ -1,11 +1,11 @@
 {
-  "version": "1.10.4",
-  "date": "2026-11-06T17:50:45.868Z",
-  "notes": "Réglages, Image : les vraies caractéristiques de tes vidéos (taille, 4K, images par seconde, débit, poids par minute) et la résolution 4K.",
+  "version": "1.10.5",
+  "date": "2026-11-06T23:40:51.237Z",
+  "notes": "Clips fluides en plein écran : Klipo filme directement la fenêtre du jeu. Alt-tab et résolution étirée gérés sans basculer sur la méthode lente.",
   "light": {
-    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.4.asar",
-    "sha256": "9de0a86bc0fda399fb29bc62076ccf35548865483a71a60155535df2fbfef6e1",
-    "size": 3249984,
+    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.5.asar",
+    "sha256": "2e89dc273e3f548775e9f7552c5cc90ebc3f75ceeea8f5559793f38887cee17f",
+    "size": 3256639,
     "minShell": "1.9.5"
   },
   "full": {
@@ -14,5 +14,5 @@
     "sha256": "02a2a97479fe379bbbdf4668f5613c316809fb9089fd14a5ad9076dc0ffe577d",
     "size": 169611286
   },
-  "signature": "DKKppUsyLQfEyanL0mvSvMjcz3alkjqDhldvBGUvd2mUim+baoOUxBCEROKxDPF3v7lrQApNfTet58/XK0C/DA=="
+  "signature": "6eYulugq8dvmleDFxlNwv/ro4Zxs1d2TJImydYSMnm9iXdGr76msqOFyRB13fEHyz+WwOch+CTrYIsHePzdTBA=="
 }
