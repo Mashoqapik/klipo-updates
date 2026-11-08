@@ -1,11 +1,11 @@
 {
-  "version": "1.10.5",
-  "date": "2026-11-06T23:40:51.237Z",
-  "notes": "Clips fluides en plein écran : Klipo filme directement la fenêtre du jeu. Alt-tab et résolution étirée gérés sans basculer sur la méthode lente.",
+  "version": "1.10.6",
+  "date": "2026-11-08T13:10:29.167Z",
+  "notes": "Nouveau choix « Le jeu (auto) » (conseillé) : le jeu en plein écran est filmé directement, sinon tout l'écran. « Tout l'écran » filme toujours tout l'écran.",
   "light": {
-    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.5.asar",
-    "sha256": "2e89dc273e3f548775e9f7552c5cc90ebc3f75ceeea8f5559793f38887cee17f",
-    "size": 3256639,
+    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.6.asar",
+    "sha256": "8887a55c2e9bf3eaa1833ee33ca0f3e662c1eb73fb5d128c2f1d0dd7a9298c59",
+    "size": 3263815,
     "minShell": "1.9.5"
   },
   "full": {
@@ -14,5 +14,5 @@
     "sha256": "02a2a97479fe379bbbdf4668f5613c316809fb9089fd14a5ad9076dc0ffe577d",
     "size": 169611286
   },
-  "signature": "6eYulugq8dvmleDFxlNwv/ro4Zxs1d2TJImydYSMnm9iXdGr76msqOFyRB13fEHyz+WwOch+CTrYIsHePzdTBA=="
+  "signature": "NlquzRZc9YBSG5AVs+fjM1CcVVSYN/VN1Td7EWgWYN3H6yxWsfaedDoIpKcWfLkK3u10PaLI/By83T3A20KIAQ=="
 }
