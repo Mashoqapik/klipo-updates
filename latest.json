@@ -1,11 +1,11 @@
 {
-  "version": "1.10.8",
-  "date": "2026-11-11T10:39:49.955Z",
-  "notes": "Klipo retient ce que ton PC tient dans chaque jeu : la capture n'est plus relancée à chaque partie.",
+  "version": "1.10.9",
+  "date": "2026-11-11T10:59:43.710Z",
+  "notes": "Nouvelle capture en jeu : Klipo filme les images réelles du jeu, sans retard ni relance de la capture.",
   "light": {
-    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.8.asar",
-    "sha256": "13e989c0cddd5535c188c177101e78507c267474767127afd6a682ed5160a69a",
-    "size": 3269979,
+    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.9.asar",
+    "sha256": "2dc4ba150c18f98e4e433e760352c0228a3faa7a8995670de007a38e80d6e871",
+    "size": 3271716,
     "minShell": "1.9.5"
   },
   "full": {
@@ -14,5 +14,5 @@
     "sha256": "02a2a97479fe379bbbdf4668f5613c316809fb9089fd14a5ad9076dc0ffe577d",
     "size": 169611286
   },
-  "signature": "BVy2LL9aJ2jMqxul4RjqHi/4VJuNZExzQqvJ9zYqs73s0m7HLMoyPFEUwsbIIzcohp7qd9Kpq5dYLD3ZDnrMDA=="
+  "signature": "/coOtlDQ7RNs6fgqL/3wmJWi75CcNy4OvJ1McwwEdwSCE1L8GBslDLd+G1v0hXpRrDMsNXnzdC8tzUeGDcVFCA=="
 }
