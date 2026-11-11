@@ -1,11 +1,11 @@
 {
-  "version": "1.10.7",
-  "date": "2026-11-11T10:30:51.987Z",
-  "notes": "Enregistrements plus coupés en morceaux, capture qui reste fluide en jeu, Klipo se rouvre correctement.",
+  "version": "1.10.8",
+  "date": "2026-11-11T10:39:49.955Z",
+  "notes": "Klipo retient ce que ton PC tient dans chaque jeu : la capture n'est plus relancée à chaque partie.",
   "light": {
-    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.7.asar",
-    "sha256": "a671d389ede177e4154fb8b110254f4307f2c4f2ff4187a5d091c80fe5108816",
-    "size": 3268438,
+    "url": "https://raw.githubusercontent.com/Mashoqapik/klipo-updates/main/light/app-1.10.8.asar",
+    "sha256": "13e989c0cddd5535c188c177101e78507c267474767127afd6a682ed5160a69a",
+    "size": 3269979,
     "minShell": "1.9.5"
   },
   "full": {
@@ -14,5 +14,5 @@
     "sha256": "02a2a97479fe379bbbdf4668f5613c316809fb9089fd14a5ad9076dc0ffe577d",
     "size": 169611286
   },
-  "signature": "hvOmubL2X5ckncnat1uLru7K4rlqfU8cNiSEERSgtPfugTMpxcp9+fJbFMhB7I9HTptoU1M/xCYrWVCTQeK1Bw=="
+  "signature": "BVy2LL9aJ2jMqxul4RjqHi/4VJuNZExzQqvJ9zYqs73s0m7HLMoyPFEUwsbIIzcohp7qd9Kpq5dYLD3ZDnrMDA=="
 }
